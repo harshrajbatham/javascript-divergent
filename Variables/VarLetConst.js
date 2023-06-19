@@ -8,4 +8,4 @@ let b = 'naam'
 console.log(b) // in let declair only one time but assign multple values.
 
 const c ='namak'
- console.log(c) // one n only no  any ther like var & let.
+ console.log(c) // one n only no  any ther like var & let .
