@@ -8,5 +8,5 @@ console.log(name.lastIndexOf("Batham"));
 
 console.log (name.split(''))
 
-console.log(name ,typeof name)
+console.log(name ,typeof name) //
 
