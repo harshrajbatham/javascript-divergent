@@ -1,7 +1,14 @@
-// fuction with return value
-let ageCalcul = function(birth,current=2023){
-    let nowAge = current - birth; 
-    return nowAge;
+
+// ARROW FUNCTION
+ let num1 = phoneNum => phoneNum
+ console.log(num1("987654321"))
+// Another example for function
+makeNew =() => name ="harshraj";
+    function display(){ //function number 2
+    
+    console.log(name);
 }
-let functioEnterAge = ageCalcul(2000)
-console.log(`yoour =${functioEnterAge}`)
+return display;
+
+let myFun2=makeNew(); // calling the function
+myFun2();
