@@ -11,3 +11,5 @@ if (number >= 18) {
 } else {
   console.log("The end");
 }
+
+// program on prime number

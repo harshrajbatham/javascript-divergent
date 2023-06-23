@@ -1,9 +1,9 @@
 // Q1: How can you check the data type of a variable in JavaScript?
 //Code: 
-//function checkDataType (item){ 
-//return typeof(item)
-//}
-//console.log(checkDataType("heelo"))
+// function checkDataType (item){ 
+// return typeof(item)
+// }
+// console.log(checkDataType("heelo"))
 //__________________________________________________________________________________________________________________________//
 
 // Q2: How can you check if a string starts with a specific substring in JavaScript?
@@ -66,6 +66,16 @@
 //    return message.split("").reverse().join("");
 //}
 //console.log(word("hello world"));
+
+// function word(str){
+  // return message.split("").reverse().join("");
+//   let reversedString = "";
+//   for ( let i = str.length - 1; i >= 0; i--) {
+//      reversedString += str[i]
+//   }
+//   return reversedString
+// }
+// console.log(word("hello world"));
 //------------------------------------------------------XX-----------------------------------------------------------------------//
 
 
