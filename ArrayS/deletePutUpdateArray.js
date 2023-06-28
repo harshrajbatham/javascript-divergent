@@ -1,4 +1,4 @@
-  const a = ['harsh',1 ,'number']
+  const a = ['harsh',"1" ,'number']
 // delete a[1] //delete the array element
 
 // console.log(a)
@@ -13,9 +13,9 @@
 //-----------------------------------------------------------------------------------------------//
 
 
-//     a.map((item,i)=>{
-//     return console.log(item: i)
-//  })
+    a.map((item,i)=>{
+    return console.log( item[0])
+ })
 
 
 

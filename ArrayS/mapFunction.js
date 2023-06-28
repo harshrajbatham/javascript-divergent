@@ -21,10 +21,18 @@
 const add=[1,3,31]
 //    forEach methoad
 function fly(addvalue) {
-    return addvalue.forEach((item) =>{
-        return console.log(item=item+1)
+    return addvalue.forEach((item , index,arr) =>{
+        return console.log(arr) // print array
     })
 
    
   }
   fly(add)
+ 
+
+
+
+
+
+
+
